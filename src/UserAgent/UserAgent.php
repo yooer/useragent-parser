@@ -2,7 +2,7 @@
 /**
  * Useragent Class
  * @package UserAgent
- * @author zsx <zsx@zsxsoft.com>
+ * @author yooer <myooer@gmail.com>
  * @license GNU/GPL http://www.gnu.org/copyleft/gpl.html
  */
 

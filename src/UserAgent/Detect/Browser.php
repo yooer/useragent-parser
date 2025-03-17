@@ -2,12 +2,7 @@
 /**
  * Detect Web Browsers
  * @package UserAgent
- * @author zsx <zsx@zsxsoft.com>
- * @author Kyle Baker <kyleabaker@gmail.com>
- * @author Fernando Briano <transformers.es@gmail.com>
- * @copyright Copyright 2014-2017 zsx
- * @copyright Copyright 2008-2014 Kyle Baker (email: kyleabaker@gmail.com)
- * @copyright 2008 Fernando Briano (email : transformers.es@gmail.com)
+ * @author yooer <myooer@gmail.com>
  * @license GNU/GPL http://www.gnu.org/copyleft/gpl.html
  */
 
