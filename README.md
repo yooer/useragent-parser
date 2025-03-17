@@ -16,13 +16,13 @@ Using Composer:
 
 ```bash
 composer require yooer/useragent-parser
-
+```
 
 ## Usage
 
 Basic usage:
 
-
+```php
 <?php
 require 'vendor/autoload.php';
 
@@ -42,6 +42,8 @@ echo "OS: " . $ua->os['name'] . " " . $ua->os['version'] . "\n";
 
 // Get device information
 echo "Device: " . $ua->device['title'] . "\n";
+```
+
 For more advanced usage, see the example files in the examples directory.
 
 ## License
